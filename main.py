@@ -53,3 +53,4 @@ with open("history.txt", "a") as f:
 
 prompt += ".png"
 save_image_from_url(image_url,prompt,"images")
+
