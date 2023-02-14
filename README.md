@@ -28,3 +28,5 @@ python main.py
 - [ ] Implement GUI
 
 # If you have any contributions please contact me __(vijayharre@proton.me)__
+
+![Buy Me A Coffee](https://www.buymeacoffee.com/vijaytech)
