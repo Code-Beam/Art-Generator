@@ -6,3 +6,9 @@ Art-Generator
 To install simply run the code
 
 ``` pip install -r requirements.txt ```
+
+Then simply run main.py file by using the following code
+
+``` python main.py ```
+
+# If you have any contributions please contact me __(vijayharre@proton.me)__
