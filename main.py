@@ -3,7 +3,7 @@ import requests
 from requests.structures import CaseInsensitiveDict
 import os
 
-openai.api_key = "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"
+openai.api_key = "YOUR-API-KEY"
 
 model_engine = "image-alpha-001"
 url = "https://api.openai.com/v1/images/generations"
